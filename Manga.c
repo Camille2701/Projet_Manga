@@ -2,7 +2,7 @@
 
 Manga *createManga(){
     Manga *manga = malloc(sizeof(Manga));
-    printf("Titre: ");
+    printf("Titre du manga: ");
     scanf("%s", manga->name);
     printf("Age min: ");
     scanf("%d", &manga->age_min);
