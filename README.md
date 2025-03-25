@@ -2,7 +2,7 @@
 
 ## Description
 
-Ce projet codé en C sur VSCode permet en utilisant la programation modulaire d'ajouter des mangas en renseignant un titre, prix et age requis,
+Ce projet scolaire codé en C sur VSCode permet en utilisant la programation modulaire d'ajouter des mangas en renseignant un titre, prix et age requis,
 les mangas ajouteés sont ensuite listés si ils sont 16+.
 On peut ensuite faire une recherche parmis les mangas créés.
 
